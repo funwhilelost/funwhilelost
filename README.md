@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![funwhilelost's GitHub stats](https://github-readme-stats.vercel.app/api?username=funwhilelost&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 25+ years of experience building for the web
+- 🔭 I’m currently working on a "batteries included" JavaScript web app framework
+- 🌱 I’m currently learning Godot 4 for a fun side-project
+- 👯 I’m looking to collaborate on distributed web projects and technologies
+
+https://www.flyingtrolleycars.com/
+https://www.linkedin.com/in/andyjacobs
 
 <!--
 **funwhilelost/funwhilelost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
